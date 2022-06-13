@@ -1,8 +1,12 @@
 package quoteviewer;
-
+/**
+    Whatever this is...
+*/
 public class Quote {
     private String msg, author;
-
+    /**
+    Constructor...
+    */
     public Quote(String _Quote, String _Author){
         msg = _Quote;
         author = _Author;
